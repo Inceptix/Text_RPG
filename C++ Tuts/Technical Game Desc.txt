@@ -1,0 +1,13 @@
+--Genre/Playstyle: Console-based adventure RPG.
+--Playstyle: Time and day progression on player input.
+--Combat: Turn-based Action combat. 1v1 combat excecutes both actions on the same turn.
+		Risk-reward playstyle while in combat. Health regenerating techniques and 
+		spacing of player vs NPC/Boss to be added. Possibly a cooldown mechanic for
+		each action taken by players and NPC. 
+--Multiple character savefiles on same world.
+--Procedurally generated "dungeon" system.
+--Random enemy encounters when not in safe zones. 
+--Player infinite level-up.
+--Enemies scale based on player level. Dungeon also have randomly generated 
+		difficulties.
+--Persistent world and changes to world carry over to other characters. 

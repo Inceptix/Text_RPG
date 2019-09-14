@@ -1,0 +1,1 @@
+XPos:0.000000 | YPos:0.000000 | Name:New | HP:12 | Stamina:9 | LvlPoints:0 | Lvl:1 | Exp:0 | ExpNext:100 | Str:5 | Vit:5 | Dex:5 | Int:5
